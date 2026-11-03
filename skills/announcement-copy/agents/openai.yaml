@@ -1,0 +1,4 @@
+interface:
+  display_name: "セミナー・コンテンツ告知文"
+  short_description: "参加後の変化と実践内容が伝わる告知文を作り、必要な画像は案を確認して生成する"
+  default_prompt: "$announcement-copy を使い、提供する内容と読者の悩みに合わせて告知文を作成してください。"

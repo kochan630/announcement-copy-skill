@@ -1,0 +1,13 @@
+{
+  "purpose": "セミナー告知用の背景イラスト。実際の製品画面や受講実績を表さない",
+  "placement": "告知ページの横長メイン画像",
+  "concept": "散らばったメモが読みやすく整理される様子を、落ち着いたイラストで示す",
+  "exact_text": "文字は画像に入れず、確定した見出しを後から組む",
+  "generation": {
+    "model": "gpt-image-2",
+    "size": "1536x1024",
+    "quality": "medium",
+    "prompt": "Create an editorial illustration for a practical knowledge-management seminar. Show loose handwritten notes being arranged into a tidy, connected notebook system on a desk. Use a calm, readable composition with generous blank space for a headline to be added later. No text, no logos, no people, no product screenshots, no glowing brains or science-fiction motifs. This is a conceptual illustration, not evidence of a real workshop or software interface."
+  },
+  "output": "../output/announcement-background.png"
+}
